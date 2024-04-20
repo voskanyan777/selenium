@@ -4,3 +4,7 @@
 ```
 pip install selenium
 ```
+## Запуск тестов
+```
+pytest tests.py
+```
